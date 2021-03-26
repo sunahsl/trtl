@@ -9,7 +9,7 @@
             "devices": [
                 {
                     "desktopLag": 75.0,
-                    "enabled": false,
+                    "enabled": true,
                     "id": 0,
                     "intensity": 75.0,
                     "name": "suro"
