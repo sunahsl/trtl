@@ -1,14 +1,14 @@
 {
     "hardwareConfiguration": {
         "cpu": {
-            "enabled": true,
+            "enabled": false,
             "optimizationMethod": "Auto",
             "threadCount": 1
         },
         "nvidia": {
             "devices": [
                 {
-                    "desktopLag": 75.0,
+                    "desktopLag": 78.0,
                     "enabled": true,
                     "id": 0,
                     "intensity": 75.0,
